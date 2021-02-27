@@ -1,5 +1,5 @@
 
-<img src="/img/screenshot-localhost-2021.02.28-01_24_28.png" width="100%">
+<img src="/public/img/screenshot-localhost-2021.02.28-01_24_28.png" width="100%">
 
 A simple implementation of laravel 8 Ajax Crud.
 
